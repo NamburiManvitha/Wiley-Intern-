@@ -1,0 +1,13 @@
+Video compression is the process of encoding a video file in such a way that it consumes less space
+than the original file and is easier to transmit over the network/Internet.
+
+It is a type of compression technique that reduces the size of video file
+formats by eliminating redundant and non-functional data from the original video file.
+Video compression is performed through a video codec that works on one or more compression algorithms. 
+Usually video compression is done by removing repetitive images, sounds and/or scenes from a video. 
+For example, a video may have the same background, image or sound played several times or the data displayed/attached with video file is not that important. 
+Video compression will remove all such data to reduce the video file size.
+
+Once a video is compressed, its original format is changed into a different format (depending on the codec used). 
+The video player must support that video format or be integrated with the compressing codec to play the video file.
+
